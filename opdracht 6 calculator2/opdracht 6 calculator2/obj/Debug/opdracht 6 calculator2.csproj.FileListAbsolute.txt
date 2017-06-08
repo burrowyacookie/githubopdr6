@@ -1,0 +1,9 @@
+c:\users\baris\Desktop\New folder\visuel studio\opdracht 6 calculator2\opdracht 6 calculator2\bin\Debug\opdracht 6 calculator2.exe.config
+c:\users\baris\Desktop\New folder\visuel studio\opdracht 6 calculator2\opdracht 6 calculator2\bin\Debug\opdracht 6 calculator2.exe
+c:\users\baris\Desktop\New folder\visuel studio\opdracht 6 calculator2\opdracht 6 calculator2\bin\Debug\opdracht 6 calculator2.pdb
+c:\users\baris\Desktop\New folder\visuel studio\opdracht 6 calculator2\opdracht 6 calculator2\obj\Debug\opdracht 6 calculator2.csprojResolveAssemblyReference.cache
+c:\users\baris\Desktop\New folder\visuel studio\opdracht 6 calculator2\opdracht 6 calculator2\obj\Debug\opdracht_6_calculator2.Form1.resources
+c:\users\baris\Desktop\New folder\visuel studio\opdracht 6 calculator2\opdracht 6 calculator2\obj\Debug\opdracht_6_calculator2.Properties.Resources.resources
+c:\users\baris\Desktop\New folder\visuel studio\opdracht 6 calculator2\opdracht 6 calculator2\obj\Debug\opdracht 6 calculator2.csproj.GenerateResource.Cache
+c:\users\baris\Desktop\New folder\visuel studio\opdracht 6 calculator2\opdracht 6 calculator2\obj\Debug\opdracht 6 calculator2.exe
+c:\users\baris\Desktop\New folder\visuel studio\opdracht 6 calculator2\opdracht 6 calculator2\obj\Debug\opdracht 6 calculator2.pdb
